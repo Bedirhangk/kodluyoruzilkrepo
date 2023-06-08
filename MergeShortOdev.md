@@ -1,4 +1,4 @@
-#Merge Sort aşamaları:
+# Merge Sort aşamaları:
 
 İlk aşamada, [16, 21, 11, 8, 12, 22] dizisi iki eşit boyuttaki alt dizilere bölünür.
 Sol alt dizi: [16, 21, 11]
